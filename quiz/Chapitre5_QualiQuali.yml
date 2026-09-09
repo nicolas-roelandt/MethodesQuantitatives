@@ -5,7 +5,7 @@
      - "la covariance"
      - "la régression linéaire simple"
      - "le coefficient de corrélation de Pearson"
-     - "un tableau de continence et un test du khi2"
+     - "un tableau de contingence et un test du khi2"
      - "le coefficient de corrélation de Spearman"
      - "un compteur Geiger"
   help: "Relisez au besoin l'introduction du [chapitre @sec-chap05]."
